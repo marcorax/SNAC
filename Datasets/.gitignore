@@ -1,0 +1,5 @@
+# python cache files
+__pycache__/
+
+#CNC dataset
+CNC_Machining/
